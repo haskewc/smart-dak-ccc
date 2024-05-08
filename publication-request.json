@@ -1,0 +1,14 @@
+{
+    "package-id" : "smart.who.int.dak-ccc",
+    "title" : "SMART DAK CCC", 
+    "category" : "base",
+    "introduction" : "SMART DAK CCC",
+    "version" : "0.9.9",
+    "desc" : "0.9.9 Draft release",
+    "mode" : "milestone",    
+    "path" : "http://smart.who.int/dak-ccc/v0.9.9",
+    "ci-build": "http://worldhealthorganization.github.io/smart-dak-ccc",    
+    "first": true,
+    "status" : "draft",
+    "sequence" : "Releases"
+  }

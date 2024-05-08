@@ -36,26 +36,26 @@ These will act as the pathfinder for expansion to more age group
 The child health in humanitarian emergencies digital adaptation kit publications and implementations tools can be found here:
 
 <!-- insert links inside the parentheses below --->
-- [Published DAK Document]()
+- [Published DAK Document](https://iris.who.int/handle/10665/376626)
 
-- [Link to core data dictionary]()
+- [Link to core data dictionary](https://smart.who.int/dak-ccc/dictionary.html)
  
-- [Link to decision support logic]() 
+- [Link to decision support logic](https://smart.who.int/dak-ccc/decision-logic.html) 
 
 <!-- [Link to scheduling logic]() --->
 
-- [Link to indicators table]()
+- [Link to indicators table](https://smart.who.int/dak-ccc/indicators.html)
  
-- [Link to functional and non functional requirements]()
+- [Link to functional and non functional requirements](https://smart.who.int/dak-ccc/system-requirements.html)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the <mark>child health in humanitarian emergencies</mark> is available here <a href= "https://github.com/WorldHealthOrganization/smart-emcare">CCC FHIR Implementation Guide</a>
+The L3 FHIR Implementation Guide for the child health in humanitarian emergencies is available here <a href= "https://github.com/WorldHealthOrganization/smart-emcare">CCC FHIR Implementation Guide</a>
 
 ### L4 Executable guidelines
 The reference implementation (L4) for the child health in humanitarian emergencies SMART Guideline is called "Frontline". The open-source code is available here <a href= "https://argusgit.argusoft.com/who-public/emcare">Frontline app</a>
 
 ### L5 Dynamic guidelines
-Content representing the L5 layer for the <mark>child health in humanitarian emergencies</mark> SMART Guideline is not yet available. Links will be published here as soon as they're available.
+Content representing the L5 layer for the child health in humanitarian emergencies SMART Guideline is not yet available. Links will be published here as soon as they're available.
 
 ### News
 
