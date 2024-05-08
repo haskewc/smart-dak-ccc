@@ -1,6 +1,6 @@
 id: smart.who.int.dak-ccc
 canonical: http://smart.who.int/dak-ccc
-name: SMART DAK CCC
+name: SMART_DAK_CCC
 title: SMART DAK CCC
 description: CCC DAK
 status: draft # draft | active | retired | unknown
