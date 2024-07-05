@@ -1,0 +1,21 @@
+SMART_DAK_CCC : Validation Results
+=========================================
+
+err = 2, warn = 8, info = 0
+IG Publisher Version: 1.6.14
+Generated Thu Jul 04 13:01:11 UTC 2024. FHIR version 4.3.0 for smart.who.int.dak-ccc#0.9.9 (canonical = http://smart.who.int/dak-ccc)
+ Build Errors : 0 / 4 / 0
+ /github/workspace/fsh-generated/resources/ImplementationGuide-smart.who.int.dak-ccc : 2 / 4 / 1
+</table>
+== n/a ==
+WARNING: 1: The HTML fragment 'ip-statements.xhtml' is not included anywhere in the produced implementation guide
+WARNING: 2: An HTML fragment from the set [cross-version-analysis.xhtml, cross-version-analysis-inline.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 3: An HTML fragment from the set [dependency-table.xhtml, dependency-table-short.xhtml] is not included anywhere in the produced implementation guide
+WARNING: 4: The HTML fragment 'globals-table.xhtml' is not included anywhere in the produced implementation guide
+== fsh-generated/resources/ImplementationGuide-smart.who.int.dak-ccc.json ==
+ERROR: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.meta.profile[0]: Canonical URLs must be absolute URLs if they are not fragment references (SMARTImplementationGuide)
+ERROR: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.definition: ImplementationGuide.definition.resource: minimum required = 1, but only found 0 (from http://hl7.org/fhir/StructureDefinition/ImplementationGuide|4.3.0)
+WARNING: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.dependsOn[0]: The ImplementationGuide is based on FHIR version 4.3.0 but package hl7.terminology.r4#5.5.0 is based on FHIR version 4.0.1. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try
+WARNING: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.dependsOn[1]: The ImplementationGuide is based on FHIR version 4.3.0 but package hl7.fhir.uv.extensions.r4#5.1.0 is based on FHIR version 4.0.1. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try
+WARNING: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.dependsOn[2]: The ImplementationGuide is based on FHIR version 4.3.0 but package who.base#current is based on FHIR version 5.0.0. In general, this version mismatch should be avoided - some tools will try to make this work with variable degrees of success, but others will not even try
+WARNING: ImplementationGuide/smart.who.int.dak-ccc: ImplementationGuide.meta.profile[0]: Profile reference 'SMARTImplementationGuide' has not been checked because it could not be found, and the validator is set to not fetch unknown profiles
