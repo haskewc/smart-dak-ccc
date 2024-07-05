@@ -49,7 +49,7 @@ The child health in humanitarian emergencies digital adaptation kit publications
 - [Link to functional and non functional requirements](https://smart.who.int/dak-ccc/system-requirements.html)
 
 ### L3 Machine readable guidelines
-The L3 FHIR Implementation Guide for the child health in humanitarian emergencies is available here <a href= "https://github.com/WorldHealthOrganization/smart-emcare">CCC FHIR Implementation Guide</a>
+The L3 FHIR Implementation Guide for the child health in humanitarian emergencies is available here <a href= "https://worldhealthorganization.github.io/smart-emcare/toc.html">CCC FHIR Implementation Guide</a>
 
 ### L4 Executable guidelines
 The reference implementation (L4) for the child health in humanitarian emergencies SMART Guideline is called "Frontline". The open-source code is available here <a href= "https://argusgit.argusoft.com/who-public/emcare">Frontline app</a>
